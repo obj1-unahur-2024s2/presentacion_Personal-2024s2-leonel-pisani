@@ -1,35 +1,9 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+# Soy Leonel Pisani
 
-Bienvenidxs a
-# Programación con objetos I
+Tengo 21 años, termine el secundario en el 2020, en el 2021 me quise notar en ingeniería en computación en la UNLAM, intente un par de veces y no pude aprobar el ingreso y de ahi encontré la UNAHUR, empecé la carrera sin saber nada de programación.
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
-
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+## Sobre mi
+Me gusta jugar al básquet, intente anotarme en el taller deportivo de la facu, pero me pusieron en lista de espera porque había mucha gente :(
+Siempre me gustaron las computadoras y tuve facilidad para usarlas en comparación a mis compañeros, por eso elegí esta carrera, pero como dije antes de programación no sabía nada.
+Espero aprobar todas las materias de este cuatrimestre y ver si puedo conseguir algún trabajo en programación cuando termine el cuatrimestre.
+También me gusta ver películas y series, de preferencia de ciencia fisión.
